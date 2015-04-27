@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Exercice 1</title>
+</head>
+<body>
+    <h1>Ceci est mon premier formulaire</h1>
+    Entrez votre Nom:
+    
+    
+        <label><input name=status maxlength=50></label>
+        
+        <br><br>
+        
+     Entrez votre age   
+    <input type="number"
+            name="Age"><br>
+            
+    
+    <input type="submit">
+        
+        
+</body>
+</html>
